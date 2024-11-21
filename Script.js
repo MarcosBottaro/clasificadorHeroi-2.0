@@ -1,3 +1,5 @@
+//digite em seu terminal " npm install readline-sync "
+//é necessário para que o programa rode, pois ele é responsavel por ter o diálogo como usuráio
 const readline = require("readline-sync");
 
 function rank(result) {
